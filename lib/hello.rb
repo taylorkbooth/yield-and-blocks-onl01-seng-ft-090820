@@ -7,5 +7,5 @@ def hello_t(array)
 end
 end
 
-puts hello_t
+hello_t
 
